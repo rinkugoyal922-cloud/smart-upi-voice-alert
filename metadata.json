@@ -1,0 +1,6 @@
+{
+  "name": "Smart UPI Voice Alert",
+  "description": "Smart UPI Voice Alert – Digital Sound Box for merchants to announce verified incoming UPI and bank app payment notifications in 10 Indian languages with local history, reports, and App Lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
